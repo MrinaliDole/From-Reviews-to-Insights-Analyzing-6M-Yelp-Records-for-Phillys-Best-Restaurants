@@ -77,7 +77,7 @@ Restaurant Owners: Benchmarked performance against top competitors in Philadelph
 
 Yelp/Product Teams: Demonstrated how structured pipelines can improve recommendation systems and search features.
 
-🔬 Technical Depth (for Hiring Managers)
+🔬 Technical Depth 
 
 Built a Python → SQL pipeline to parse raw JSON into normalized tables.
 
